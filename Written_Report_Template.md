@@ -1,23 +1,25 @@
-# Kickstarting with Excel
+# Amazing Prime with ETL - FRM'S Tec Data Bootcamp Challenge 8
 
-## Overview of Project
-
-### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+## Purpose
+Britta had me dygin with this one! Helping her through all the ETL process to give the hackathon participants a clean, neat and after all this work I'd say beautiful database was quite a challenge. After all the ETL process both with the Wikipedia and the Kaggle data sets, we have another challenge up ahead, which results are shown as follows:
 
 ## Results
+- Deliverable 1
+```
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+```
 
-- What can you conclude about the Outcomes based on Goals?
+- Deliverable 2
+```
 
-- What are some limitations of this dataset?
+```
 
-- What are some other possible tables and/or graphs that we could create?
+- Deliverable 3
+```
+
+```
+
+- Deliverable 4
+```
+
+```
